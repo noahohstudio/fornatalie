@@ -1,0 +1,27 @@
+{
+  "notes": "Paths are relative to this file. width and height are the displayed size in pixels (photo/video rotation already applied). duration is in seconds. Generated from the files in assets/; regenerate if assets are added, removed or resized.",
+  "assets": [
+    {"id": "image1", "type": "image", "src": "assets/image1.jpg", "width": 1168, "height": 246},
+    {"id": "video2", "type": "video", "src": "assets/video2.mov", "width": 1920, "height": 1080, "duration": 2.83, "codec": "hevc"},
+    {"id": "image3", "type": "image", "src": "assets/image3.jpg", "width": 4032, "height": 3024},
+    {"id": "video4", "type": "video", "src": "assets/video4.mov", "width": 1080, "height": 1920, "duration": 2.83, "codec": "hevc"},
+    {"id": "image5", "type": "image", "src": "assets/image5.jpg", "width": 4284, "height": 5712},
+    {"id": "image6", "type": "image", "src": "assets/image6.jpg", "width": 3024, "height": 4032},
+    {"id": "image7", "type": "image", "src": "assets/image7.jpg", "width": 4032, "height": 3024},
+    {"id": "image8", "type": "image", "src": "assets/image8.jpg", "width": 4032, "height": 3024},
+    {"id": "image9", "type": "image", "src": "assets/image9.jpg", "width": 3024, "height": 4032},
+    {"id": "image10", "type": "image", "src": "assets/image10.jpg", "width": 3024, "height": 4032},
+    {"id": "image11", "type": "image", "src": "assets/image11.jpg", "width": 4032, "height": 3024},
+    {"id": "image12", "type": "image", "src": "assets/image12.jpg", "width": 3484, "height": 2297},
+    {"id": "image13", "type": "image", "src": "assets/image13.jpg", "width": 1200, "height": 800},
+    {"id": "image14", "type": "image", "src": "assets/image14.jpg", "width": 2048, "height": 1536},
+    {"id": "image15", "type": "image", "src": "assets/image15.jpg", "width": 4031, "height": 3013},
+    {"id": "image16", "type": "image", "src": "assets/image16.jpg", "width": 3340, "height": 1715},
+    {"id": "image17", "type": "image", "src": "assets/image17.jpg", "width": 200, "height": 235},
+    {"id": "image18", "type": "image", "src": "assets/image18.jpg", "width": 4032, "height": 3024},
+    {"id": "image19", "type": "image", "src": "assets/image19.jpg", "width": 4032, "height": 3024},
+    {"id": "image20", "type": "image", "src": "assets/image20.jpg", "width": 4032, "height": 3024},
+    {"id": "image21", "type": "image", "src": "assets/image21.jpg", "width": 4896, "height": 3672},
+    {"id": "image22", "type": "image", "src": "assets/image22.jpg", "width": 5550, "height": 4162}
+  ]
+}
